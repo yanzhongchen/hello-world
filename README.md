@@ -14,3 +14,10 @@ coding
 
     update at 20:17 need to polish
     update at 2018-11-28
+
+## part three
+### source code
+```golang
+import fmt
+fmt.Sprintf(accountStatsCacheKey, accountID)
+```
