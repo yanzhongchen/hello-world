@@ -2,13 +2,10 @@
 ## golang
 ### github project
 
-first repository in gitbub
-==========
 
-I am stupid and lazy boy, but...
---------
 
-Now it's 2018-12-27, you need to come up hurrily.
+Now it's 2018-12-27, you need to come up hurrily.  <br>
+
 
 
 update at 20:17
